@@ -41,7 +41,7 @@ alias can be an `Alias Version` or string composing of an `Alias Prefix`,
 
 **Examples**
 
-Checkout the [doctype test](./test/doctype.test.ts) for more examples.
+Checkout the [test](./test/index.test.ts) for more examples.
 
 ```ts
 import * as doctype from 'email-doctype';
