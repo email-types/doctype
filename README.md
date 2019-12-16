@@ -1,9 +1,19 @@
 [wiki-dtd]: https://en.wikipedia.org/wiki/Document_type_definition
 [dtd-data]: ./src/data.ts
 
+<div align="center">
+
 # Email Doctype
 
 Easily manage your email's [Document Type Definition (DTD)][wiki-dtd].
+
+[![](https://img.shields.io/npm/v/email-doctype?color=black&logoColor=white)](https://www.npmjs.com/package/email-doctype)
+![](https://img.shields.io/github/workflow/status/email-types/doctype/Test?logo=github&color=black)
+[![](https://img.shields.io/codecov/c/github/email-types/doctype?logo=codecov&logoColor=white&color=black)](https://codecov.io/gh/email-types/doctype)
+[![](https://img.shields.io/bundlephobia/min/email-doctype?logo=bundlephobia&color=black)](https://bundlephobia.com/result?p=email-doctype)
+[![](https://img.shields.io/bundlephobia/minzip/email-doctype?logo=bundlephobia&color=black)](https://bundlephobia.com/result?p=email-doctype)
+
+</div>
 
 Install with yarn
 
