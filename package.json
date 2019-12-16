@@ -2,8 +2,10 @@
   "name": "email-doctype",
   "version": "1.0.0-canary.0",
   "description": "Easily manage your email's Document Type Definition (DTD).",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/cjs/index.js",
+  "types": "dist/cjs/index.d.ts",
+  "module": "dist/esm/index.js",
+  "sideEffects": false,
   "files": [
     "dist"
   ],
