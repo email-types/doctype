@@ -3,7 +3,7 @@ import { resolve } from 'path';
 import { outputFile } from 'fs-extra';
 import { format, resolveConfig } from 'prettier';
 import { cyan, green, red } from 'colors';
-import { doctypes as rawDoctypes, Doctype } from '@email-types/data/doctypes';
+import { doctypes as rawDoctypes, Doctype } from '@email-types/data/html';
 
 const cwd = process.cwd();
 const output = resolve(__dirname, '../src/data.ts');
