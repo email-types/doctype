@@ -1,3 +1,11 @@
+### 0.0.1-canary.2 - 2019-12-23
+
+#### 📦 Dependencies
+
+- Update all deps to latest (#3)
+  ([7ff877a](https://github.com/email-types/doctype/commit/7ff877a)), closes
+  [#3](https://github.com/email-types/doctype/issues/3)
+
 ### 0.0.1-canary.1 - 2019-12-16
 
 #### 🐞 Fixes
